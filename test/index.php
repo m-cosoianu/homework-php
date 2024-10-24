@@ -17,6 +17,7 @@ const PRODUCT_REQUIRED = 'Product selecteren';
 
 $errors = [];
 $inputs = [];
+$melding = "Vul in";
 
 if(isset($_POST['send'])){
 
@@ -34,6 +35,15 @@ if(isset($_POST['send'])){
         $errors['product'] = PRODUCT_REQUIRED;
     } else {
         $inputs['product']=$product;
+    }
+    if(count($errors)===0){
+        if($product === 9) {
+            $melding = "Bedrag euro $product 6% BTW: euro" .
+                round(($product * 1.09), 2);
+        } else {
+            $melding = "Bedrag euro $product 21% BTW: euro" .
+                round(($product * 1.21), 2);
+        }
     }
 }
 ?>
