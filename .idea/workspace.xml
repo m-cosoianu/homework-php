@@ -5,7 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65fee14a-5d30-4d80-9ea2-1c840c31647d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/classes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/header.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/home1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/home2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/galaxy24_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/galaxy35_black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone14_128black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone14_128blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone15_128pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone15_128yellow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/vendors/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/vendors/samsung.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smarthphones4u/vendor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +33,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\xampp\php\php.exe" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2m4Zj6xG3ukc46S2Jb6Dka1CRte" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,6 +46,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/xampp/htdocs/homework-php/smarthphones4u/img",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,11 +55,20 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\homework-php\smarthphones4u\img" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\homework-php\smarthphones4u" />
+      <recent name="C:\xampp\htdocs\homework-php\les9\img" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PS-242.21829.154" />
-        <option value="bundled-php-predefined-a98d8de5180a-4d9f4c849d09-com.jetbrains.php.sharedIndexes-PS-242.21829.154" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PS-242.23726.107" />
+        <option value="bundled-php-predefined-a98d8de5180a-90914f2295cb-com.jetbrains.php.sharedIndexes-PS-242.23726.107" />
       </set>
     </attachedChunks>
   </component>
@@ -55,6 +81,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726337940289</updated>
       <workItem from="1726337941502" duration="615000" />
+      <workItem from="1731485456777" duration="2523000" />
     </task>
     <servers />
   </component>
