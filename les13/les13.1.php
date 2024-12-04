@@ -1,6 +1,6 @@
 <?php
 try {
-    $db = new PDO("mysql:host=localhost;dbname=fietsenmaker","root", "");
+    $db = new PDO("mysql:host=localhost;dbname=fiestenmaker","root", "");
     $query = $db->prepare("select * FROM fietsen");
     $query->execute();
     $result = $query->fetchAll(PDO::FETCH_ASSOC);
@@ -30,4 +30,3 @@ try {
     }
 </style>
 
-?>
