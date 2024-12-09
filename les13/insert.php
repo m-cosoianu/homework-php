@@ -2,7 +2,7 @@
 
 try{
     include_once ('classes/Fiets.php');
-    $db= new PDO("mysql:host=localhost;dbname=fiestenmaker", "root", "");
+    $db= new PDO("mysql:host=localhost;dbname=fietsenmaker", "root", "");
 } catch (PDOException $e) {
     die('Geen database server actief');
 }

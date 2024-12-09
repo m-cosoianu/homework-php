@@ -5,26 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65fee14a-5d30-4d80-9ea2-1c840c31647d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/les13/crud.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les13/insert.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les13/les13.1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les13/les13.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/p1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/les9/p2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/classes.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/header.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/home1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/home2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/galaxy24_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/galaxy35_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone14_128black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone14_128blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone15_128pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/phones/iphone15_128yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/vendors/apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/img/vendors/samsung.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smarthphones4u/vendor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +29,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726337940289</updated>
       <workItem from="1726337941502" duration="615000" />
+      <workItem from="1733746584897" duration="818000" />
     </task>
     <servers />
   </component>

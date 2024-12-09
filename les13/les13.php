@@ -2,7 +2,7 @@
 
 
 try {
-    $db = new PDO("mysql:host=localhost;dbname=fiestenmaker", "root", "");
+    $db = new PDO("mysql:host=localhost;dbname=fietsenmaker", "root", "");
     $query = $db->prepare("select * FROM fietsen");
     $query->execute();
     $result = $query->fetchAll(PDO::FETCH_ASSOC);
