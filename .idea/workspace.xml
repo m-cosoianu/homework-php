@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65fee14a-5d30-4d80-9ea2-1c840c31647d" name="Changes" comment="" />
+    <list default="true" id="65fee14a-5d30-4d80-9ea2-1c840c31647d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOPHP/CheckingAccount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPHP/BankAccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/OOPHP/BankAccount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPHP/SavingAccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/OOPHP/SavingAccount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OOPHP/bankrekening.php" beforeDir="false" afterPath="$PROJECT_DIR$/OOPHP/bankrekening.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +62,7 @@
       <workItem from="1733746584897" duration="977000" />
       <workItem from="1736321925545" duration="5264000" />
       <workItem from="1737112670521" duration="194000" />
+      <workItem from="1737140988623" duration="959000" />
     </task>
     <servers />
   </component>

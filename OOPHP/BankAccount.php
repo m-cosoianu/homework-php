@@ -21,4 +21,13 @@ class BankAccount
         }
         return $this;
     }
+
+    public function withdraw($amount)
+    {
+        if ($amount > 0 && $amount < $this->balance) {
+            $this->balance -= $amount;
+            return true;
+        }
+        return false;
+    }
 }
