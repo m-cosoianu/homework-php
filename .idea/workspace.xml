@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65fee14a-5d30-4d80-9ea2-1c840c31647d" name="Changes" comment="" />
+    <list default="true" id="65fee14a-5d30-4d80-9ea2-1c840c31647d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CRUD/img/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/img/samsung.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/vendor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/vendor_admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/vendor_admin_add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/vendor_admin_delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/vendor_admin_edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CRUD/vendor_admin_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +47,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\homework-php\CRUD\img" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -59,6 +74,7 @@
       <workItem from="1737112670521" duration="194000" />
       <workItem from="1737140988623" duration="959000" />
       <workItem from="1738047521718" duration="64000" />
+      <workItem from="1738047629730" duration="3433000" />
     </task>
     <servers />
   </component>
